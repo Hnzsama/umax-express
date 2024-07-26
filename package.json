@@ -1,0 +1,22 @@
+{
+  "name": "umax-express",
+  "version": "1.0.0",
+  "description": "backend-for-umax-next",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hnzsama/umax-express.git"
+  },
+  "author": "DhevLuq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hnzsama/umax-express/issues"
+  },
+  "homepage": "https://github.com/Hnzsama/umax-express#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
